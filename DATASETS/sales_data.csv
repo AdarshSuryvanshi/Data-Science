@@ -1,0 +1,7 @@
+Product,Region,Sales,Quantity
+A,North,100,5
+B,South,200,10
+A,East,150,7
+C,North,300,8
+B,East,400,12
+A,South,250,6

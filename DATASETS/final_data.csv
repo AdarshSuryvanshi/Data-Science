@@ -1,0 +1,7 @@
+Date,Product,Region,Sales,Quantity,Revenue,Performance,Category
+2023-01-01,A,North,100.0,5,500,Low,Electronics
+2023-01-02,B,South,240.0,10,2000,Low,Furniture
+2023-01-03,A,East,150.0,7,1050,Low,Electronics
+2023-01-04,C,North,300.0,8,2400,High,Clothing
+2023-01-05,B,East,400.0,12,4800,High,Furniture
+2023-01-06,A,South,250.0,6,1500,High,Electronics
